@@ -320,7 +320,7 @@ class Ui_MainWindow(QWidget):
         font.setBold(True)
         font.setWeight(50)
         self.label_4.setFont(font)
-        self.label_4.setText("PDF工具箱 (温岭第一检察部Win测试版)")
+        self.label_4.setText("PDF工具箱 (Win测试版)")
         self.label_4.setObjectName("label_4")
 
         # 添加红色圆圈(关闭按钮)

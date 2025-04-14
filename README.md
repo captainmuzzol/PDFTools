@@ -12,6 +12,9 @@
 - **PDF转PPT**：将PDF文件转换为PowerPoint演示文稿
 - **PDF拆分**：支持按页码范围拆分PDF文件
 
+## 界面预览
+![alt text](image/界面预览.png)
+
 ## 技术特点
 
 - 使用PyQt5构建现代化图形界面
