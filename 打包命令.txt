@@ -1,0 +1,3 @@
+pyinstaller -w --collect-all pypdfium --collect-all=pypdfium2_raw --collect-all=pypdfium2 -i E:\python\excelGet\image\icon.ico MainWindow.py
+不提示：
+--noconfirm
